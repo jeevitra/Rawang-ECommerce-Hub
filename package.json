@@ -1,0 +1,23 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "Rawang Ecommerce Appkication with MERN",
+  "type": "module",
+  "homepage": "https://github.com/jeevitra/Rawang-ECommerce-Hub#readme",
+  "bugs": {
+    "url": "https://github.com/jeevitra/Rawang-ECommerce-Hub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevitra/Rawang-ECommerce-Hub.git"
+  },
+  "license": "MIT",
+  "author": "Jeevitra Sree Veesagan",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
